@@ -1,0 +1,24 @@
+# ninja log v5
+15	979	6774232589834089	CMakeFiles/Lista_2.dir/main.cpp.obj	ae698d8829c3ceb
+20	666	6774232586705903	CMakeFiles/Lista_2.dir/algorithms/Prim.cpp.obj	fb546db582368351
+979	1408	6774232594067319	Lista_2.exe	f13fba3fc7688ac5
+18	262	6774232582674992	CMakeFiles/Lista_2.dir/utilities/Union.cpp.obj	303a6c6335c655ec
+2	561	6774232585655666	CMakeFiles/Lista_2.dir/utilities/MatrixGraph.cpp.obj	a4531e9ed0ddaa1c
+0	153	6774232834460865	build.ninja	7e646fc778e12d46
+25	550	6774232585545641	CMakeFiles/Lista_2.dir/utilities/ListGraph.cpp.obj	c6d9372f1d4a1ef6
+23	734	6774232587376054	CMakeFiles/Lista_2.dir/utilities/generator/GraphGenerator.cpp.obj	8536f01e49f93e30
+30	688	6774232586925954	CMakeFiles/Lista_2.dir/algorithms/Kruskal.cpp.obj	49ccede54f087d5e
+28	724	6774232587276034	CMakeFiles/Lista_2.dir/algorithms/Dijkstra.cpp.obj	fd0747d6911475df
+33	646	6774232586505860	CMakeFiles/Lista_2.dir/algorithms/BellmanFord.cpp.obj	3827f8b44e43e526
+30	249	6774232851782113	CMakeFiles/Lista_2.dir/utilities/Union.cpp.obj	fd9f7a28028dbfcd
+26	489	6774232854172703	CMakeFiles/Lista_2.dir/utilities/ListGraph.cpp.obj	7fd6ea97e0777b45
+17	540	6774232854692822	CMakeFiles/Lista_2.dir/utilities/MatrixGraph.cpp.obj	7bfc289a9732a2a0
+36	591	6774232855192939	CMakeFiles/Lista_2.dir/algorithms/BellmanFord.cpp.obj	4013c52bcb5a7d8e
+33	632	6774232855613029	CMakeFiles/Lista_2.dir/utilities/generator/GraphGenerator.cpp.obj	88a8b1cc603c8b4d
+22	637	6774232855653039	CMakeFiles/Lista_2.dir/algorithms/Prim.cpp.obj	b5c7abbf1926908
+41	642	6774232855703053	CMakeFiles/Lista_2.dir/algorithms/Kruskal.cpp.obj	3b1f9d5532851422
+44	692	6774232856203191	CMakeFiles/Lista_2.dir/algorithms/Dijkstra.cpp.obj	9d0b652c0375d438
+2	896	6774232858233654	CMakeFiles/Lista_2.dir/main.cpp.obj	9eec58cbf444a6e7
+896	1345	6774232862687455	Lista_2.exe	f13fba3fc7688ac5
+2	753	6774234112370228	CMakeFiles/Lista_2.dir/main.cpp.obj	9eec58cbf444a6e7
+753	1208	6774234116877283	Lista_2.exe	f13fba3fc7688ac5

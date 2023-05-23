@@ -1,0 +1,13 @@
+# ninja log v5
+2	636	6759182480803998	CMakeFiles/Lista1.dir/main.cpp.obj	1cb41124ab9dc883
+323	614	6759189522069576	Lista1.exe	670120010421ff9b
+0	12	0	clean	344916df3a29f681
+18	298	6729305045594664	CMakeFiles/Lista1main.cpp.dir/CustomArray.cpp.obj	9ca106b1c7c53a20
+2	332	6756817435798498	CMakeFiles/Lista1.dir/CustomList.cpp.obj	a5825448799beefe
+2	277	6759185136863125	CMakeFiles/Lista1.dir/RedBlackTree.cpp.obj	bb03894975a66790
+2	296	6729305045589664	CMakeFiles/Lista1main.cpp.dir/CustomList.cpp.obj	596aefda7f41161c
+2	273	6757869579001063	CMakeFiles/Lista1.dir/CustomArray.cpp.obj	7ef97acd7efcf2c9
+1	323	6759189519214068	CMakeFiles/Lista1.dir/MaxHeap.cpp.obj	2ffc6f16a0d37c5d
+20	296	6729305045574654	CMakeFiles/Lista1main.cpp.dir/RedBlackTree.cpp.obj	77eae22ef51c66a5
+15	350	6729305046129749	CMakeFiles/Lista1main.cpp.dir/MaxHeap.cpp.obj	74dca2be52f71016
+1	298	6771108978504533	build.ninja	b191ed628ed5a130
